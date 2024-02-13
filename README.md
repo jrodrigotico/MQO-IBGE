@@ -26,7 +26,7 @@ git clone https://github.com/jrodrigotico/Portfolio-Markowitz.git
 - Extraia dados do zip 'Dados_20230713.zip'
 - Selecionar cadernos: 'DOMICILIO.txt', 'CONDICOES_VIDA.txt', 'MORADOR_QUALI_VIDA.txt' e 'MORADOR.txt'
 
-:warning: OBS: O Github não aceita upload de dados que superem o tamanho de 25 mb por esse motivo é preciso fazer o download dos dados diretamente do site do IBGE !!
+OBS: O Github não aceita upload de dados que superem o tamanho de 25 mb !!!
 ```
 
 
