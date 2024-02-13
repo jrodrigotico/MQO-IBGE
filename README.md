@@ -10,7 +10,7 @@
 
 
 
-## 	:desktop_computer: Acesso ao repositório
+## 	:desktop_computer: Clone do repositório
 Clone do repositório:
 
 ```
@@ -19,7 +19,12 @@ git clone https://github.com/jrodrigotico/Portfolio-Markowitz.git
 
 ## 	:desktop_computer: Download dos dados no site IBGE
 ```
-acessar link: 
+- Acessar link: https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html?=&t=downloads
+- Pesquisa_de_Orcamentos_Familiares_2017_2018
+- Microdados
+- Dados_20230713.zip
+- Extraia dados do zip 'Dados_20230713.zip'
+- Selecionar cadernos: 
 ```
 
 
