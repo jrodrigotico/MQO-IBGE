@@ -1,11 +1,11 @@
 [![Python Version](https://img.shields.io/badge/python-3.11.6-blue.svg)](https://www.python.org/downloads/)
 ![GitHub License](https://img.shields.io/github/license/jrodrigotico/python)
 
-## 	:school: MQO - Método dos Mínimos Quadrados
+## 	:books: MQO - Método dos Mínimos Quadrados
 
 
 
-## 	:scissors: Tratamento dos dados
+## 	:construction_worker: Tratamento dos dados
 
 
 
@@ -14,10 +14,10 @@
 Clone do repositório:
 
 ```
-git clone https://github.com/jrodrigotico/Portfolio-Markowitz.git
+git clone https://github.com/jrodrigotico/MQO-IBGE.git
 ```
 
-## 	:desktop_computer: Download dos dados no site IBGE
+## 	:point_down: Download dos dados no site IBGE
 ```
 - Acessar link: https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html?=&t=downloads
 - Pesquisa_de_Orcamentos_Familiares_2017_2018
@@ -31,7 +31,7 @@ OBS: O Github não aceita upload de dados que superem o tamanho de 25 mb !!!
 
 
 
-## :mag_right: Principais pacotes utilizados
+## 	:eye: Principais pacotes utilizados
 - ``Pandas``
 - ``Seaborn``
 - ``Scipy stats``
