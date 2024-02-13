@@ -30,7 +30,6 @@ OBS: O Github não aceita upload de dados que superem o tamanho de 25 mb !!!
 ```
 
 
-
 ## 	:eye: Principais pacotes utilizados
 - ``Pandas``
 - ``Seaborn``
