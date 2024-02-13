@@ -6,6 +6,12 @@ O Método dos Mínimos Quadrados Ordinários (MQO) é uma técnica estatística 
 
 Neste projeto, o MQO é aplicado para investigar a relação entre quatro variáveis dependentes ('rdpc', 'seg_alimentar', 'subjetividade' e 'serv_essencias') e um conjunto de variáveis independentes. Como resultado, o projeto contém quatro seções distintas dedicadas à análise do MQO para cada uma das variáveis dependentes mencionadas.
 
+Por exemplo:
+<p align="center">
+  <img src="https://github.com/jrodrigotico/Portfolio/blob/main/Imagens/ols_imagem.png" width=60%>
+</p> 
+
+
 
 
 ## 	:point_down: Download dos dados no site IBGE
