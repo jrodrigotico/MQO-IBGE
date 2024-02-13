@@ -29,7 +29,7 @@ OBS: O Github não aceita upload de dados que superem o tamanho de 25 mb !!!
 ## 	:construction_worker: Tratamento e visualização dos dados
 Após baixar os cadernos 'DOMICILIO.txt', 'CONDICOES_VIDA.txt', 'MORADOR_QUALI_VIDA.txt' e 'MORADOR.txt', os dados foram combinados usando a função 'pd.merge' para criar o conjunto principal de dados denominado 'base'. Durante esse processo, realizou-se a verificação de valores ausentes ('NA') e a renomeação de algumas colunas, como 'V6199' para 'SEG_ALIMENTAR_V' e 'V6101' para 'RENDIMENTO_TOTAL', entre outras
 
-As novas variáveis serão utilizadas no decorrer do código foram criadas utilizando a estrutura condicional 'if' com o auxílio dos métodos 'apply' e 'lambda'. 
+As novas variáveis que serão utilizadas no decorrer do código foram criadas utilizando a estrutura condicional 'if' com o auxílio dos métodos 'apply' e 'lambda'. 
 
 Para avaliar a distribuição das variáveis dependentes, como 'rdpc', 'seg_alimentar', 'subjetividade' e 'serv_essencias', foram criados gráficos para visualizar a frequência dos valores '0' e '1', bem como gráficos de frequência relativa dessas variáveis. Além disso, foi gerado um gráfico mostrando a renda média por estado.
 
