@@ -2,7 +2,9 @@
 ![GitHub License](https://img.shields.io/github/license/jrodrigotico/python)
 
 ## 	:books: MQO - Método dos Mínimos Quadrados
-O Método dos Mínimos Quadrados Ordinários (MQO) é uma técnica estatística amplamente empregada para compreender a relação entre uma variável dependente e uma ou mais variáveis independentes. Reconhecido por sua eficácia na modelagem de problemas lineares, o MQO é crucial em muitos domínios de estudo. Neste projeto, o MQO é aplicado para investigar a relação entre quatro variáveis dependentes ('rdpc', 'seg_alimentar', 'subjetividade' e 'serv_essencias') e um conjunto de variáveis independentes. Como resultado, o projeto contém quatro seções distintas dedicadas à análise do MQO para cada uma das variáveis dependentes mencionadas.
+O Método dos Mínimos Quadrados Ordinários (MQO) é uma técnica estatística amplamente empregada para compreender a relação entre uma variável dependente e uma ou mais variáveis independentes. Reconhecido por sua eficácia na modelagem de problemas lineares, o MQO é crucial em muitos domínios de estudo. 
+
+Neste projeto, o MQO é aplicado para investigar a relação entre quatro variáveis dependentes ('rdpc', 'seg_alimentar', 'subjetividade' e 'serv_essencias') e um conjunto de variáveis independentes. Como resultado, o projeto contém quatro seções distintas dedicadas à análise do MQO para cada uma das variáveis dependentes mencionadas.
 
 
 
