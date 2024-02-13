@@ -8,7 +8,7 @@ Neste projeto, o MQO é aplicado para investigar a relação entre quatro variá
 
 Por exemplo:
 <p align="center">
-  <img src="https://github.com/jrodrigotico/Portfolio/blob/main/Imagens/ols_imagem.png" width=60%>
+  <img src="https://github.com/jrodrigotico/MQO-IBGE/blob/imagens/ols_imagem.png" width=60%>
 </p> 
 
 
